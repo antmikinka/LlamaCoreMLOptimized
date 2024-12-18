@@ -23,3 +23,8 @@ In this repo will be:
 **CoreMLOptimization Code Prune and Palletization for the Llama Model**
 - Meta-Llama-3-8B-Instruct-Stateful-Pruned-Palettized.py (formerly called untitled.py, as noted in the terminal text file)
 - "terminal for llama3.txt"
+
+**Post Conversion to CoreML Optimizations**
+- palettizer.py
+- "post conversion coreml optimizations - palletization.py"
+- pruner.py
